@@ -1,0 +1,6 @@
+framework module Pods_PXAPIManager_Example {
+  umbrella header "Pods-PXAPIManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

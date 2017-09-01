@@ -1,0 +1,27 @@
+{
+  "name": "PXAPIManager",
+  "version": "0.1.0",
+  "summary": "PXAPIManager.",
+  "description": "PXApiManager....",
+  "homepage": "https://github.com/PXAndrew/PXAPIManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PXAndrew": "82198066@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/PXAndrew/PXAPIManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PXAPIManager/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

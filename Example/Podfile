@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'PXAPIManager_Example' do
+  pod 'MJRefresh'
+  pod 'Masonry'
+  pod 'SDWebImage'
+  pod 'PXAPIManager', :path => '../'
+
+  target 'PXAPIManager_Tests' do
+    inherit! :search_paths
+  end
+end
